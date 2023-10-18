@@ -1,0 +1,6 @@
+{
+    "default-auth": {
+        "enabled": true,
+        "env": "development"
+    }
+}
