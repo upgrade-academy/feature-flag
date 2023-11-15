@@ -1,6 +1,6 @@
 {
     "default-auth": {
-        "enabled": false,
+        "enabled": true,
         "env": "CI"
     }
 }
